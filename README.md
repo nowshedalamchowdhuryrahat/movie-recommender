@@ -9,4 +9,4 @@ This project is open source.
 
 **Rahat** — Computer Science Student
 
-Built as a portfolio project for graduate school application.
+Built as a portfolio project.

@@ -3,9 +3,7 @@
 A **content-based Movie Recommendation System** built with Python that suggests similar movies based on their descriptions and genres. Uses Natural Language Processing (NLP) techniques — CountVectorizer and TF-IDF — combined with cosine similarity to find movies that are most alike.
 
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
+This project is open source.
 
 ## 👤 Author
 
